@@ -25,3 +25,6 @@ You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/shruti-solani/
+
+<!-- HTML5 -->
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
