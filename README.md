@@ -1,6 +1,5 @@
-### Hello World !!! 👋🌏
+### <p align="center"> Hello World !!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 <p align="center">
-  Keep Coding 
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 <!--
