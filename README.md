@@ -1,6 +1,6 @@
 ### <p align="center"> Hello World !!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
-[![](https://visitcount.itsvg.in/api?id=ShrutiSolani&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ShrutiSolani&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/shruti-solani) 
